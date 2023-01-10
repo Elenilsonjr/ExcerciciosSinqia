@@ -1,0 +1,15 @@
+C:\curso\SinqiaPratico\SinqiaPratico\bin\Debug\net6.0\SinqiaPratico.exe
+C:\curso\SinqiaPratico\SinqiaPratico\bin\Debug\net6.0\SinqiaPratico.deps.json
+C:\curso\SinqiaPratico\SinqiaPratico\bin\Debug\net6.0\SinqiaPratico.runtimeconfig.json
+C:\curso\SinqiaPratico\SinqiaPratico\bin\Debug\net6.0\SinqiaPratico.dll
+C:\curso\SinqiaPratico\SinqiaPratico\bin\Debug\net6.0\SinqiaPratico.pdb
+C:\curso\SinqiaPratico\SinqiaPratico\obj\Debug\net6.0\SinqiaPratico.csproj.AssemblyReference.cache
+C:\curso\SinqiaPratico\SinqiaPratico\obj\Debug\net6.0\SinqiaPratico.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso\SinqiaPratico\SinqiaPratico\obj\Debug\net6.0\SinqiaPratico.AssemblyInfoInputs.cache
+C:\curso\SinqiaPratico\SinqiaPratico\obj\Debug\net6.0\SinqiaPratico.AssemblyInfo.cs
+C:\curso\SinqiaPratico\SinqiaPratico\obj\Debug\net6.0\SinqiaPratico.csproj.CoreCompileInputs.cache
+C:\curso\SinqiaPratico\SinqiaPratico\obj\Debug\net6.0\SinqiaPratico.dll
+C:\curso\SinqiaPratico\SinqiaPratico\obj\Debug\net6.0\refint\SinqiaPratico.dll
+C:\curso\SinqiaPratico\SinqiaPratico\obj\Debug\net6.0\SinqiaPratico.pdb
+C:\curso\SinqiaPratico\SinqiaPratico\obj\Debug\net6.0\SinqiaPratico.genruntimeconfig.cache
+C:\curso\SinqiaPratico\SinqiaPratico\obj\Debug\net6.0\ref\SinqiaPratico.dll
